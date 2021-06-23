@@ -1,0 +1,19 @@
+{
+  "name": "task-force-kraken",
+  "version": "1.0.0",
+  "description": "TF: K bot thingy",
+  "main": "dist/core/Bot.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawsonDevvv/task-force-kraken.git"
+  },
+  "author": "lawsonDevvv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lawsonDevvv/task-force-kraken/issues"
+  },
+  "homepage": "https://github.com/lawsonDevvv/task-force-kraken#readme"
+}
