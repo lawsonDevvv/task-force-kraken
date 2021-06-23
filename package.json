@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/lawsonDevvv/task-force-kraken/issues"
   },
-  "homepage": "https://github.com/lawsonDevvv/task-force-kraken#readme"
+  "homepage": "https://github.com/lawsonDevvv/task-force-kraken#readme",
+  "dependencies": {
+    "discord-akairo": "github:discord-akairo/discord-akairo",
+    "discord.js": "github:discordjs/discord.js"
+  }
 }
