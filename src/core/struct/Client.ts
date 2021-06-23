@@ -21,11 +21,13 @@ export default class Client extends AkairoClient {
     });
 
     listenerHandler = new ListenerHandler(this, {
-        directory: join(__dirname, "..", "listeners")
+        directory: join(__dirname, "..", "listeners"),
+        automateCategories: true,
     });
 
     inhibitorHandler = new InhibitorHandler(this, {
-        directory: join(__dirname, "..", "inhibitors")
+        directory: join(__dirname, "..", "inhibitors"),
+        automateCategories: true,
     });
 
     public constructor() {
