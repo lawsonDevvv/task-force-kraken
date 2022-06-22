@@ -20,7 +20,7 @@
     "@types/sqlite3": "^3.1.7",
     "discord-akairo": "github:discord-akairo/discord-akairo",
     "discord.js": "github:discordjs/discord.js",
-    "sqlite3": "^5.0.2"
+    "sqlite3": "^5.0.3"
   },
   "devDependencies": {
     "@types/node": "^15.12.4"
